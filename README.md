@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi%2C+I'm+Anton;Welcome+to+my+GitHub+Profile!;Learning+Software+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi%2C+I'm+Anton;Welcome+to+my+GitHub+Profile!;Learning+Software+Development+in+Softuni)](https://git.io/typing-svg)
 
 ## 👋 Hi, I'm Anton
 
