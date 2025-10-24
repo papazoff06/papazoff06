@@ -23,8 +23,8 @@ I'm a student exploring the world of software development.
 > *(Stats appear after you make some public contributions)*
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AntonPapazov&show_icons=true&hide_title=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonPapazov&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=papazoff06&show_icons=true&hide_title=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papazoff06&layout=compact&hide_border=true" />
 </p>
 
 ---
