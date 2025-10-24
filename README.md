@@ -1,16 +1,35 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi%2C+I'm+Anton;Welcome+to+my+GitHub+Profile!;Learning+Software+Development)](https://git.io/typing-svg)
 
-<!--
-**papazoff06/papazoff06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Anton
 
-Here are some ideas to get you started:
+I'm a student exploring the world of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+---
+
+### 📚 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,js" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+> *(Stats appear after you make some public contributions)*
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AntonPapazov&show_icons=true&hide_title=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonPapazov&layout=compact&hide_border=true" />
+</p>
+
+---
+
+### 📬 Contact
+- **Email:** papazov06@gmail.com  
+- **Facebook:** [Anton Papazov](https://www.facebook.com/profile.php?id=100092239291520)
