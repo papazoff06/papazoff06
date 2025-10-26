@@ -5,11 +5,10 @@ I'm a student exploring the world of software development.
 
 ---
 
-### 🛠️ Skills
+### 📚 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=python, django, postgres, js, devops, html, css, docker" />
 </p>
-
 
 ---
 
