@@ -7,7 +7,7 @@ I'm a student exploring the world of software development.
 
 ### 📚 Currently Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,js,devops,html,css,docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,js,html,css,docker" />
 </p>
 
 ---
