@@ -10,12 +10,6 @@ I'm a student exploring the world of software development.
   <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
----
-
-### 📚 Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,js,docker" />
-</p>
 
 ---
 
